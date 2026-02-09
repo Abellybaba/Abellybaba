@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I am a Full-Stack Developer and academic based in Canada, originally from Nigeria. My journey in tech is driven by a singular goal: building software that feels intuitive and accessible. Currently, I balance my work as a software engineer with my studies in Psychology and Linguistics. This unconventional combination allows me to approach development not just from a logical standpoint, but from a behavioral one. I don't just write code; I design systems that align with how humans communicate and process information.
+I am a Full-Stack Developer and academic based in Canada. My journey in tech is driven by a singular goal: building software that feels intuitive and accessible. Aspiring software developer focused on building practical tools and micro-SaaS solutions. I enjoy turning small ideas into real, working products using modern web technologies, AI tools, and clean system design. Currently learning, building in public, and shipping fast. This unconventional combination allows me to approach development not just from a logical standpoint, but from a behavioral one. I don't just write code; I design systems that align with how humans communicate and process information.
 
 
 ## 🌐 Socials:
